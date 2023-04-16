@@ -5,12 +5,12 @@
 
  -->
  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgsimpon15&theme=tokyonight)
 
 
 ![Jgsimpon15's Stats](https://github-readme-stats.vercel.app/api?username=Jgsimpon15&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgsimpon15&theme=tokyonight)
 
 
 
