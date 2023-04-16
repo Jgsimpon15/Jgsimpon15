@@ -5,8 +5,8 @@
 
  -->
  
- <align='center'>
+
 ![Jgsimpon15's Stats](https://github-readme-stats.vercel.app/api?username=Jgsimpon15&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-</>
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jgsimpon15)](https://github.com/anuraghazra/github-readme-stats)
  -->
